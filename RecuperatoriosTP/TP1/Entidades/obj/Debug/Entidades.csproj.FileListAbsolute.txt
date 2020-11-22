@@ -1,0 +1,26 @@
+C:\Users\Luken\source\repos\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Luken\source\repos\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luken\source\repos\TP1 - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Luken\source\repos\TP1 - copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luken\source\repos\TP1 - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luken\source\repos\TP1 - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luken\source\repos\TP1 - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luken\source\repos\TP1 - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luken\source\repos\TP1 - copia - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luken\source\repos\TP1 - copia - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luken\source\repos\TP1 - copia - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Luken\source\repos\TP1 - copia - copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luken\source\repos\TP1 - copia - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luken\source\repos\TP1 - copia - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luken\source\repos\TP1 - copia - copia - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luken\source\repos\TP1 - copia - copia - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luken\source\repos\TP1 - copia - copia - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Luken\source\repos\TP1 - copia - copia - copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luken\source\repos\TP1 - copia - copia - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luken\source\repos\TP1 - copia - copia - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP1\Entidades\obj\Debug\Entidades.pdb
