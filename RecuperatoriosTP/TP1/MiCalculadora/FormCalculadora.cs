@@ -16,8 +16,6 @@ namespace MiCalculadora
         public FormCalculadora()
         {
             InitializeComponent();
-            btnConvertirADecimal.Enabled = false; 
-            btnConvertirABinario.Enabled = false; 
         }
 
         /// <summary>
@@ -31,7 +29,8 @@ namespace MiCalculadora
             string numero2 = this.txtNumero2.Text;
             string operador = this.cmbOperador.Text;
 
-            //Se valida que la división por cero resulte en error matemático.
+            //Dado que no se puede retornar string/bool en Operar ni el enunciado permite crear métodos, se valida 
+            //en esta instancia que la división por cero resulte en error matemático.
             if( (numero2 == "" || numero2 == "0") && operador == "/")
             {
                 this.lblResultado.Text = "Error.";
@@ -41,8 +40,8 @@ namespace MiCalculadora
                 this.lblResultado.Text = (Operar(numero1, numero2, operador)).ToString();
             }
 
-            btnConvertirADecimal.Enabled = true;
-            btnConvertirABinario.Enabled = false;
+            btnConvertirADecimal.Enabled = false;
+            btnConvertirABinario.Enabled = true;
         }
 
         /// <summary>
@@ -93,7 +92,7 @@ namespace MiCalculadora
         /// <param name="e">EventArgs</param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
-            string binario = this.lblResultado.Text;
+            string binario = this.lblResultado.Text;            
             this.lblResultado.Text = Numero.BinarioDecimal(binario);
 
             btnConvertirADecimal.Enabled = false;
@@ -108,8 +107,8 @@ namespace MiCalculadora
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             Limpiar();
-            btnConvertirADecimal.Enabled = false;
-            btnConvertirABinario.Enabled = false; 
+            btnConvertirADecimal.Enabled = true;
+            btnConvertirABinario.Enabled = true;
         }
 
         /// <summary>
@@ -130,7 +129,7 @@ namespace MiCalculadora
         /// <param name="e">EventArgs</param>
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-                Dispose();
+            Dispose();
         }
 
         /// <summary>

@@ -127,13 +127,14 @@ namespace Entidades
         /// <returns>boolean</returns>
         private static bool EsBinario(string binario)
         {
-            bool isBinary = true;
+            bool isBinary = false;
 
             foreach (char element in binario)
             {
-                if(element != '0' && element != '1')
-                    isBinary = false;
+                if(element == '0' || element == '1')
+                    isBinary = true;
             }
+
             return isBinary;
         }
 
@@ -181,16 +182,15 @@ namespace Entidades
         public static string BinarioDecimal(string binario)
         {
             int dec;
+            string resultado = "Error: valor inválido!";
 
             if (EsBinario(binario))
             {
                 dec = Convert.ToInt32(binario, 2);
-                return dec.ToString();
+                resultado = dec.ToString();
             }
-            else
-            {
-                return "Error: valor inválido!";
-            }
+            
+            return resultado;
         }
     }
 }
