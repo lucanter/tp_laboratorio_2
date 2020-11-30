@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5C2EBEC4-D4D1-41A3-862D-54CC29D82CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C766B8D3-D379-43CD-A8DD-3A73F9535555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormInventario", "FormInventario\FormInventario.csproj", "{B58906FB-73F4-479B-9298-B5A8E4B3E702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2EBEC4-D4D1-41A3-862D-54CC29D82CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2EBEC4-D4D1-41A3-862D-54CC29D82CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2EBEC4-D4D1-41A3-862D-54CC29D82CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2EBEC4-D4D1-41A3-862D-54CC29D82CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C766B8D3-D379-43CD-A8DD-3A73F9535555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C766B8D3-D379-43CD-A8DD-3A73F9535555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C766B8D3-D379-43CD-A8DD-3A73F9535555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C766B8D3-D379-43CD-A8DD-3A73F9535555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58906FB-73F4-479B-9298-B5A8E4B3E702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58906FB-73F4-479B-9298-B5A8E4B3E702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58906FB-73F4-479B-9298-B5A8E4B3E702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58906FB-73F4-479B-9298-B5A8E4B3E702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AA3A50-4FA6-4754-9981-37EF1D7311C8}
+	EndGlobalSection
+EndGlobal
