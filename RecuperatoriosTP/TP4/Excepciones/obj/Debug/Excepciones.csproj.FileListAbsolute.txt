@@ -1,0 +1,24 @@
+C:\Users\famil\Desktop\TP4 v3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\famil\Desktop\TP4 v3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\famil\Desktop\TP4 v3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\TP4 v3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\TP4 v3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\famil\Desktop\TP4 v3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v8\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v8\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v8\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v8\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v8\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v8\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Excepciones\obj\Debug\Excepciones.pdb

@@ -1,0 +1,160 @@
+C:\Users\lucie\source\repos\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\source\repos\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\source\repos\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\source\repos\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\source\repos\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\source\repos\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\source\repos\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TPs LabII\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TPs LabII\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TPs LabII\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TPs LabII\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TPs LabII\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\famil\Desktop\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4 v2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\TP4 v2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\TP4 v2\Entidades\obj\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4 v2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4 v2\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\famil\Desktop\TP4 v2\Entidades\bin\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4 v2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4 v3\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\famil\Desktop\TP4 v3\Entidades\bin\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4 v3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4 v3\Entidades\bin\Debug\Archivos.dll
+C:\Users\famil\Desktop\TP4 v3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\famil\Desktop\TP4 v3\Entidades\bin\Debug\Archivos.pdb
+C:\Users\famil\Desktop\TP4 v3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\famil\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v3\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v3\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v3\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v3\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v8\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v8\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v8\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v8\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v8\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v8\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v8\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v8\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v8\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v8\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v8\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v8\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v11 destinatario\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\Entidades\obj\Debug\Entidades.pdb

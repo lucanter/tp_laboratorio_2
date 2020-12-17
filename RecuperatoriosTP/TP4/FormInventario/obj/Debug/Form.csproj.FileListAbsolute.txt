@@ -1,0 +1,251 @@
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.Form1.resources
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\famil\Desktop\TP4\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\famil\Desktop\TP4\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\famil\Desktop\TP4\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\famil\Desktop\TP4\FormInventario\bin\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\FormInventario.Form1.resources
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\famil\Desktop\TP4\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\FormInventario.Form1.resources
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\famil\Desktop\TP4 v2\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\famil\Desktop\TP4 v2\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\famil\Desktop\TP4 v2\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\famil\Desktop\TP4 v2\FormInventario\bin\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4 v2\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4 v2\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\famil\Desktop\TP4 v2\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v4 Consola y Form funcionando\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v5 Grilla Funcionando\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v6 Grilla y FormVenta Funcionando\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v7\FormInventario\obj\Debug\FormInventario.FormPrincipal.resources
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\FormInventario.FormPrincipal.resources
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v8\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\FormInventario.FormPrincipal.resources
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\FormInventario.FormPrincipal.resources
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v10 correción tipo\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\FormInventario.FormPrincipal.resources
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v11 destinatario\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\FormInventario.FormPrincipal.resources
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v12 estadisticas\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\FormInventario.FormArmamento.resources
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\FormInventario.FormCarga.resources
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\FormInventario.FormPrincipal.resources
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\FormInventario.FormVenta.resources
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\Form.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TP4 v12 gui, borrado cucha\FormInventario\obj\Debug\FormInventario.pdb

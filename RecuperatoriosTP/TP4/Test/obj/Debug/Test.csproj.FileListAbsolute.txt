@@ -1,0 +1,71 @@
+C:\Users\lucie\source\repos\TP4\Test\bin\Debug\Test.exe.config
+C:\Users\lucie\source\repos\TP4\Test\bin\Debug\Test.exe
+C:\Users\lucie\source\repos\TP4\Test\bin\Debug\Test.pdb
+C:\Users\lucie\source\repos\TP4\Test\bin\Debug\Entidades.dll
+C:\Users\lucie\source\repos\TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\lucie\source\repos\TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lucie\source\repos\TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lucie\source\repos\TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lucie\source\repos\TP4\Test\obj\Debug\Test.exe
+C:\Users\lucie\source\repos\TP4\Test\obj\Debug\Test.pdb
+C:\Users\lucie\source\repos\TP4\Test\bin\Debug\Entidades.dll.config
+C:\Users\famil\Desktop\TP4 v3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\TP4 v3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\TP4 v3\Test\obj\Debug\Test.exe
+C:\Users\famil\Desktop\TP4 v3\Test\obj\Debug\Test.pdb
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Test.exe.config
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Test.exe
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Test.pdb
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Archivos.dll
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Entidades.dll
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Excepciones.dll
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Archivos.pdb
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Entidades.pdb
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Entidades.dll.config
+C:\Users\famil\Desktop\TP4 v3\Test\bin\Debug\Excepciones.pdb
+C:\Users\famil\Desktop\TP4 v3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Test.exe.config
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Test.exe
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Test.pdb
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v3\Test\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v3\Test\obj\Debug\Test.exe
+C:\Users\lucie\Desktop\TP4 v3\Test\obj\Debug\Test.pdb
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Test.exe.config
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Test.exe
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Test.pdb
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v8\Test\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v8\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v8\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v8\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v8\Test\obj\Debug\Test.exe
+C:\Users\lucie\Desktop\TP4 v8\Test\obj\Debug\Test.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Test.exe.config
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Test.exe
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Test.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Archivos.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Entidades.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Excepciones.dll
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Archivos.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Entidades.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Entidades.dll.config
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\bin\Debug\Excepciones.pdb
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\obj\Debug\Test.exe
+C:\Users\lucie\Desktop\TP4 v9 Hilos imagenes\Test\obj\Debug\Test.pdb

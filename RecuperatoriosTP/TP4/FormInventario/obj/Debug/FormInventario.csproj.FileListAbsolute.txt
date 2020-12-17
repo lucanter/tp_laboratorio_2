@@ -1,0 +1,11 @@
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\FormInventario.exe.config
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\bin\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.csprojAssemblyReference.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.Form1.resources
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.Properties.Resources.resources
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.csproj.GenerateResource.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.exe
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.pdb
+C:\Users\lucie\Desktop\TPs LabII\TP4\FormInventario\obj\Debug\FormInventario.Armamento.resources
